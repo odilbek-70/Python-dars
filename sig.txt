@@ -1,1 +1,0 @@
-(self, callback: collections.abc.Callable[[~CCT], collections.abc.Coroutine[typing.Any, typing.Any, typing.Any]], time: datetime.time, days: tuple[int, ...] = (0, 1, 2, 3, 4, 5, 6), data: object | None = None, name: str | None = None, chat_id: int | None = None, user_id: int | None = None, job_kwargs: dict[str, Any] | None = None) -> 'Job[CCT]'
