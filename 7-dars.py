@@ -1,3 +1,1 @@
-while True:
-    parol = ("parol kirit:")
-    
+print("salom Tarmoq asoslari")
