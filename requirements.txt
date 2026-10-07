@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]>=22.0,<23.0
+httpx>=0.28.1,<0.29.0
+pymongo>=4.11,<5.0
+python-dotenv>=1.0.1,<2.0
+tzdata>=2025.1
+google-genai>=1.0.0
